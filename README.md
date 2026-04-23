@@ -38,6 +38,36 @@ It focuses on understanding customer behavior, revenue trends, and key performan
 
 ---
 
+ecommerce-revenue-intelligence/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_eda_analysis.ipynb
+│   ├── 03_feature_engineering.ipynb
+│
+├── sql/
+│   ├── schema.sql
+│   ├── queries.sql
+│
+├── dashboards/
+│   ├── powerbi_dashboard.pbix
+│   ├── dashboard_screenshots/
+│
+├── src/
+│   ├── data_cleaning.py
+│   ├── analysis.py
+│
+├── reports/
+│   ├── final_report.pdf
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+
 ## 🔍 Key Analysis
 
 ### 📈 Revenue Analysis
