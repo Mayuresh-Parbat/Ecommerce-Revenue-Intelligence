@@ -122,3 +122,4 @@ st.subheader(f"📦 Orders from {selected_country}")
 
 st.dataframe(filtered_df.head(20))
 
+st.success("AI-powered dashboard running successfully 🚀")
