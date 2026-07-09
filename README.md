@@ -142,4 +142,4 @@ The interactive dashboard provides:
 
 ## 🙌 Author
 
-Mayuresh Parbat Data Analyst 
+**Mayuresh Parbat**
