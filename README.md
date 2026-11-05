@@ -85,10 +85,6 @@ ecommerce-revenue-intelligence/
 * Detection of inactive users
 * Retention insights
 
-### 📊 Cohort Analysis
-
-* Customer retention over time
-
 ---
 
 ## 📊 Dashboard
@@ -138,7 +134,7 @@ The interactive dashboard provides:
 * Integrate machine learning for churn prediction
 * Deploy dashboard online
 
----
+QQ---
 
 ## 🙌 Author
 
